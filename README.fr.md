@@ -4,7 +4,7 @@
 
 ## 🌍 Languages
 
-- 🇬🇧 [English](README.en.md)
+- 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
 - 🇪🇸 [Español](README.es.md)
 - 🇩🇪 [Deutsch](README.de.md)
