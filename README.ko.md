@@ -2,7 +2,7 @@
 
 > 경영진이 생산성 측정을 잊은 뒤부터 직원의 초록불을 지킵니다.
 
-## 🌍 Languages
+## 🌍 언어
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 국제 지원
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18개 언어를 지원합니다. 스크립트가 복잡해서가 아니라 마이크로매니지먼트가 전 세계에 있기 때문입니다.
 
-> Productivity may be local. The green-dot obsession is global.
+> 생산성은 지역마다 달라도 초록불 집착은 전 세계 공통입니다.
 
 ## 이게 뭔가요?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock**, 60초. 마우스 이동 없이 엔터프라이즈급 키보드 혹사가 진행됩니다.
 
 ## 기능
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- 설치 불필요
+- 커피 휴식과 완벽 호환
+- 소중한 초록색 상태 표시™ 보호
+- 우주의 열적 죽음까지 반복
 
 ## 작동 방식
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Microsoft Teams 실행 여부를 확인합니다.
+2. `NUMLOCK`을 두 번 누릅니다.
+3. 60초 기다립니다.
+4. PowerShell 또는 우주가 종료될 때까지 반복합니다.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 어색한 번역이나 더 좋은 농담은 PR로 보내 주세요. 저는 프랑스어, 영어, 학교 수준 스페인어만 압니다. 나머지는 커뮤니티와 낙관주의 몫입니다.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+번역, 농담, 커피 이야기, 새 언어 PR은 환영합니다. 직원 감시 기능은 환영하지 않습니다. 우리에게도 기준은 있습니다.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+PR의 글자 수가 전체 코드보다 많아도 괜찮습니다. 여기서는 정상입니다.
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Your PR may contain more text than the entire codebase. That is perfectly accept
 
 없습니다. Num Lock은 최종 형태입니다.
 
-### Why is the README larger than the script?
+### README가 왜 스크립트보다 큰가요?
 
-Because documentation scales faster than software.
+문서는 소프트웨어보다 빠르게 확장되기 때문입니다.
 
 ## 🔒 보안
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock 누름: 의도된 동작. README가 코드보다 큼: 수정 안 함. 초록불을 생산성으로 오해: 패치 없음.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: 초록불이 생산성으로 오해될 수 있습니다. 상태: 전 세계적 문제, 패치 없음.
 
 위협 모델: 인간, 키보드, 커피, Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+이 스크립트가 Num Lock만 누른다는 사실을 떠올린 뒤에도 인류가 위험하다면 issue를 열어 주세요.
 
 ## 면책 조항
 

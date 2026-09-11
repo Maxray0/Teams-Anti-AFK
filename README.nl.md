@@ -2,7 +2,7 @@
 
 > Houdt werknemers groen sinds management vergat hoe productiviteit wordt gemeten.
 
-## 🌍 Languages
+## 🌍 Talen
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Internationale ondersteuning
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 talen. Niet omdat het script ingewikkeld is, maar omdat micromanagement overal bestaat.
 
-> Productivity may be local. The green-dot obsession is global.
+> Productiviteit kan lokaal zijn. De obsessie met het groene puntje is wereldwijd.
 
 ## Wat is dit?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock**, 60 seconden. Geen muisbeweging, alleen toetsenbordmisbruik op bedrijfsniveau.
 
 ## Functies
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Geen installatie vereist
+- Geschikt voor koffiepauzes
+- Beschermt het kostbare groene statuspuntje™
+- Herhaalt tot de warmtedood van het universum
 
 ## Hoe het werkt
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Controleert of Microsoft Teams draait.
+2. Drukt tweemaal op `NUMLOCK`.
+3. Wacht 60 seconden.
+4. Herhaalt tot PowerShell sluit, of het universum.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 Rare vertaling of betere grap? Open een PR. Ik spreek Frans en Engels plus school-Spaans; de rest draait op bijdragers en optimisme.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+PRs voor vertalingen, grappen, koffie en nieuwe talen zijn welkom. Werknemersmonitoring niet. We hebben normen.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+Je PR mag meer tekst bevatten dan de hele codebase. Dat is volkomen acceptabel.
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Omdat het prachtig absurd is.
 
 Nee. Num Lock heeft zijn eindvorm bereikt.
 
-### Why is the README larger than the script?
+### Waarom is de README groter dan het script?
 
-Because documentation scales faster than software.
+Omdat documentatie sneller groeit dan software.
 
 ## 🔒 Beveiliging
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock wordt ingedrukt: bedoeld. README groter dan code: geen oplossing. Groen verward met productiviteit: geen patch.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Een groen puntje kan voor productiviteit worden aangezien. Status: wereldwijd probleem zonder patch.
 
 Dreigingen: mensen, toetsenborden, koffie en Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Als de mensheid nog gevaar loopt nadat je beseft dat dit alleen Num Lock indrukt, open dan een issue.
 
 ## Disclaimer
 

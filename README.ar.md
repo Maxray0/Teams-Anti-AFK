@@ -2,7 +2,7 @@
 
 > نُبقي الموظفين باللون الأخضر منذ أن نسيت الإدارة كيفية قياس الإنتاجية.
 
-## 🌍 Languages
+## 🌍 اللغات
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 الدعم الدولي
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 لغة. ليس لأن السكربت معقد، بل لأن الإدارة التفصيلية موجودة في كل مكان.
 
-> Productivity may be local. The green-dot obsession is global.
+> قد تكون الإنتاجية محلية، لكن الهوس بالنقطة الخضراء عالمي.
 
 ## ما هذا؟
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell وMicrosoft Teams و**Num Lock** و60 ثانية. بلا تحريك للفأرة، فقط إساءة استخدام مؤسسية للوحة المفاتيح.
 
 ## الميزات
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- لا يتطلب تثبيتاً
+- متوافق مع استراحات القهوة
+- يحمي مؤشر الحالة الأخضر الثمين™
+- يكرر حتى الموت الحراري للكون
 
 ## كيف يعمل
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. يتحقق من تشغيل Microsoft Teams.
+2. يضغط `NUMLOCK` مرتين.
+3. ينتظر 60 ثانية.
+4. يكرر حتى يُغلق PowerShell أو يُغلق الكون أبوابه.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 ترجمة غريبة أو نكتة أفضل؟ افتح طلب سحب. أتحدث الفرنسية والإنجليزية وبعض الإسبانية المدرسية؛ والباقي يعتمد على المجتمع والتفاؤل.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+نرحب بطلبات السحب للترجمات والنكات والقهوة واللغات الجديدة. أما مراقبة الموظفين فلا. لدينا معايير.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+قد يحتوي طلب السحب على نص أكثر من الشفرة كلها، وهذا مقبول تماماً.
 
 ## ❓ الأسئلة الشائعة
 
@@ -90,9 +90,9 @@ Your PR may contain more text than the entire codebase. That is perfectly accept
 
 لا. بلغ Num Lock شكله النهائي.
 
-### Why is the README larger than the script?
+### لماذا README أكبر من السكربت؟
 
-Because documentation scales faster than software.
+لأن التوثيق ينمو أسرع من البرمجيات.
 
 ## 🔒 الأمان
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: ضغط Num Lock مقصود. README أكبر من الكود ولن يُصلح. خلط النقطة الخضراء بالإنتاجية مشكلة بلا تصحيح.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: قد تُفهم النقطة الخضراء على أنها إنتاجية. الحالة: مشكلة عالمية بلا تصحيح.
 
 نموذج التهديد: بشر ولوحات مفاتيح وقهوة وTeams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+إذا ظلت البشرية في خطر بعد تذكّر أن السكربت يضغط Num Lock فقط، فافتح issue.
 
 ## إخلاء المسؤولية
 

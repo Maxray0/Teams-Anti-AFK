@@ -2,7 +2,7 @@
 
 > ম্যানেজমেন্ট উৎপাদনশীলতা মাপা ভুলে যাওয়ার পর থেকে কর্মীদের সবুজ রাখছি।
 
-## 🌍 Languages
+## 🌍 ভাষা
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 আন্তর্জাতিক সহায়তা
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+১৮টি ভাষা। স্ক্রিপ্ট জটিল বলে নয়, micromanagement সর্বত্র আছে বলে।
 
-> Productivity may be local. The green-dot obsession is global.
+> উৎপাদনশীলতা স্থানীয় হতে পারে। সবুজ বিন্দুর আসক্তি বিশ্বজনীন।
 
 ## এটি কী?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock** এবং ৬০ সেকেন্ড। মাউস নড়বে না, শুধু enterprise-মানের কীবোর্ড অপব্যবহার।
 
 ## বৈশিষ্ট্য
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- ইনস্টলেশনের প্রয়োজন নেই
+- কফি বিরতির সঙ্গে সামঞ্জস্যপূর্ণ
+- মূল্যবান সবুজ স্ট্যাটাস নির্দেশক™ রক্ষা করে
+- মহাবিশ্বের তাপীয় মৃত্যু পর্যন্ত পুনরাবৃত্তি করে
 
 ## যেভাবে কাজ করে
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Microsoft Teams চলছে কি না পরীক্ষা করে।
+2. `NUMLOCK` দুবার চাপ দেয়।
+3. ৬০ সেকেন্ড অপেক্ষা করে।
+4. PowerShell অথবা মহাবিশ্ব বন্ধ না হওয়া পর্যন্ত পুনরাবৃত্তি করে।
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 অদ্ভুত অনুবাদ বা ভালো কৌতুক? PR খুলুন। আমি ফরাসি, ইংরেজি ও স্কুল-স্তরের স্প্যানিশ জানি; বাকিটা কমিউনিটি ও আশাবাদ।
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+অনুবাদ, কৌতুক, কফি ও নতুন ভাষার PR স্বাগত। কর্মী নজরদারি নয়। আমাদেরও মান আছে।
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+আপনার PR-এ পুরো কোডের চেয়ে বেশি লেখা থাকতে পারে। এটি গ্রহণযোগ্য।
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Your PR may contain more text than the entire codebase. That is perfectly accept
 
 না। Num Lock চূড়ান্ত রূপ পেয়েছে।
 
-### Why is the README larger than the script?
+### README স্ক্রিপ্টের চেয়ে বড় কেন?
 
-Because documentation scales faster than software.
+কারণ ডকুমেন্টেশন সফটওয়্যারের চেয়ে দ্রুত বাড়ে।
 
 ## 🔒 নিরাপত্তা
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock ইচ্ছাকৃত। README কোডের চেয়ে বড়: ঠিক হবে না। সবুজ বিন্দুকে উৎপাদনশীলতা ভাবা: patch নেই।
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: সবুজ বিন্দুকে উৎপাদনশীলতা ভাবা হতে পারে। অবস্থা: বৈশ্বিক সমস্যা, কোনো patch নেই।
 
 হুমকি: মানুষ, কীবোর্ড, কফি ও Teams।
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+এটি শুধু Num Lock চাপছে মনে করার পরও মানবতা বিপদে থাকলে issue খুলুন।
 
 ## দায়মুক্তি
 

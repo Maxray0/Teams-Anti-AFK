@@ -2,7 +2,7 @@
 
 > Manteniendo empleados en verde desde que la dirección olvidó cómo medir la productividad.
 
-## 🌍 Languages
+## 🌍 Idiomas
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Soporte internacional
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 idiomas. No porque el script sea complicado. Porque la microgestión existe en todas partes.
 
-> Productivity may be local. The green-dot obsession is global.
+> La productividad puede ser local. La obsesión por el punto verde es mundial.
 
 ## ¿Qué es esto?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Bloq Num**, 60 segundos. Sin mover el ratón, solo abuso de teclado empresarial.
 
 ## Características
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- No requiere instalación
+- Compatible con pausas para el café
+- Protege el preciado indicador verde™
+- Se repite hasta la muerte térmica del universo
 
 ## Cómo funciona
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Comprueba si Microsoft Teams está en ejecución.
+2. Pulsa `NUMLOCK` dos veces.
+3. Espera 60 segundos.
+4. Repite hasta que se cierre PowerShell o el universo.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 ¿Una traducción rara o un chiste mejor? Abre una PR. Hablo francés e inglés y entiendo español a nivel de instituto; para el resto dependemos de colaboradores y optimismo.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+Aceptamos PR con mejores traducciones, bromas, café o nuevos idiomas. Vigilancia de empleados, no. Tenemos principios.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+Tu PR puede contener más texto que todo el código. Es perfectamente aceptable.
 
 ## ❓ Preguntas frecuentes
 
@@ -90,9 +90,9 @@ Porque combatir supuestos empresariales con una tecla numérica es precioso.
 
 No. Bloq Num ya alcanzó su forma final.
 
-### Why is the README larger than the script?
+### ¿Por qué el README es más grande que el script?
 
-Because documentation scales faster than software.
+Porque la documentación crece más rápido que el software.
 
 ## 🔒 Seguridad
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Pulsa Bloq Num: intencionado. El README pesa más que el script: no se corregirá. El punto verde puede confundirse con productividad: problema mundial sin parche.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Un punto verde puede confundirse con productividad. Estado: problema mundial sin parche.
 
 Modelo de amenazas: humanos, teclados, café y Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Si la humanidad sigue en peligro después de recordar que esto pulsa Bloq Num, abre una incidencia.
 
 ## Aviso
 

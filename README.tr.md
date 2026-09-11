@@ -2,7 +2,7 @@
 
 > Yönetim verimliliği ölçmeyi unuttuğundan beri çalışanları yeşil tutuyoruz.
 
-## 🌍 Languages
+## 🌍 Diller
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Uluslararası destek
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 dil. Betik karmaşık olduğu için değil, mikro yönetim her yerde olduğu için.
 
-> Productivity may be local. The green-dot obsession is global.
+> Verimlilik yerel olabilir. Yeşil nokta takıntısı küreseldir.
 
 ## Bu nedir?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock**, 60 saniye. Fare hareketi yok, yalnızca kurumsal klavye istismarı.
 
 ## Özellikler
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Kurulum gerektirmez
+- Kahve molalarıyla uyumludur
+- Değerli yeşil durum göstergesini korur™
+- Evrenin ısıl ölümüne kadar tekrarlar
 
 ## Nasıl çalışır
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Microsoft Teams’in çalışıp çalışmadığını kontrol eder.
+2. `NUMLOCK` tuşuna iki kez basar.
+3. 60 saniye bekler.
+4. PowerShell veya evren kapanana kadar tekrarlar.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 Garip çeviri veya daha iyi şaka mı? PR açın. Fransızca, İngilizce ve okul düzeyi İspanyolca biliyorum; gerisi topluluk ve iyimserlik.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+Çeviri, şaka, kahve ve yeni dil PR’ları kabul edilir. Çalışan gözetimi edilmez. Standartlarımız var.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+PR’niz tüm kod tabanından daha fazla metin içerebilir. Bu tamamen kabul edilebilir.
 
 ## ❓ SSS
 
@@ -90,9 +90,9 @@ Hayır, sadece görünüşünü. Gerisini kahve yapar.
 
 Hayır. Num Lock son biçimine ulaştı.
 
-### Why is the README larger than the script?
+### README neden betikten daha büyük?
 
-Because documentation scales faster than software.
+Çünkü dokümantasyon yazılımdan daha hızlı büyür.
 
 ## 🔒 Güvenlik
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock basılır: kasıtlı. README koddan büyük: düzeltilmeyecek. Yeşil nokta verimlilik sanılabilir: yama yok.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Yeşil nokta verimlilik sanılabilir. Durum: yaması olmayan küresel sorun.
 
 Tehditler: insanlar, klavyeler, kahve ve Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Bunun yalnızca Num Lock’a bastığını hatırladıktan sonra insanlık hâlâ tehlikedeyse bir issue açın.
 
 ## Uyarı
 

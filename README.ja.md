@@ -2,7 +2,7 @@
 
 > 会社が生産性の測り方を忘れて以来、社員の緑色を守っています。
 
-## 🌍 Languages
+## 🌍 言語
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 国際対応
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18言語対応です。スクリプトが複雑だからではなく、マイクロマネジメントが世界共通だからです。
 
-> Productivity may be local. The green-dot obsession is global.
+> 生産性には地域差があっても、緑色の丸への執着は世界共通です。
 
 ## これは何？
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell、Microsoft Teams、**Num Lock**、60秒。マウスは動かず、エンタープライズ品質でキーボードを酷使します。
 
 ## 特徴
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- インストール不要
+- コーヒーブレイク対応
+- 大切な緑色のステータス表示™を保護
+- 宇宙が熱的死を迎えるまで反復
 
 ## 仕組み
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Microsoft Teams が起動中か確認します。
+2. `NUMLOCK` を2回押します。
+3. 60秒待ちます。
+4. PowerShell または宇宙が終了するまで繰り返します。
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 不自然な翻訳やもっと良い冗談はPRしてください。私はフランス語、英語、学校レベルのスペイン語のみ。残りは皆さんと楽観主義頼みです。
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+翻訳、冗談、コーヒーネタ、新しい言語のPRを歓迎します。社員監視機能は歓迎しません。最低限の良識はあります。
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+PRの文章量がコード全体を超えても問題ありません。むしろ通常運転です。
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Your PR may contain more text than the entire codebase. That is perfectly accept
 
 ありません。Num Lock は最終形態です。
 
-### Why is the README larger than the script?
+### なぜ README はスクリプトより大きいのですか？
 
-Because documentation scales faster than software.
+ドキュメントはソフトウェアより速く成長するからです。
 
 ## 🔒 セキュリティ
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock を押す: 仕様。README がコードより大きい: 修正しません。緑色を生産性と誤認: パッチなし。
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: 緑色の丸が生産性と誤認される可能性があります。状態：世界規模の問題、パッチなし。
 
 脅威モデル: 人間、キーボード、コーヒー、Teams。
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Num Lock を押すだけだと思い出しても人類が危険なら、issueを開いてください。
 
 ## 免責事項
 

@@ -2,7 +2,7 @@
 
 > Maintenir les employés au vert depuis que le management a oublié comment mesurer la productivité.
 
-## 🌍 Languages
+## 🌍 Langues
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,11 +23,11 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Prise en charge internationale
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 langues. Pas parce que le script est compliqué. Parce que le micro-management existe partout.
 
-> Productivity may be local. The green-dot obsession is global.
+> La productivité peut être locale. L’obsession du rond vert est mondiale.
 
 ## C'est quoi, ce truc ?
 
@@ -36,17 +36,17 @@ Un minuscule script PowerShell qui vérifie que Microsoft Teams fonctionne et ap
 ## Fonctionnalités
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Aucune installation requise
+- Compatible avec les pauses café
+- Protège le précieux indicateur vert™
+- Répète jusqu’à la mort thermique de l’univers
 
 ## Comment ça marche
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Vérifie que Microsoft Teams fonctionne.
+2. Appuie deux fois sur `NUMLOCK`.
+3. Attend 60 secondes.
+4. Recommence jusqu’à la fermeture de PowerShell ou de l’univers.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -74,7 +74,7 @@ Une faute, une traduction bancale ou une meilleure blague sur le culte du rond v
 
 Les meilleures traductions, les blagues plus mordantes, les références au café et les nouvelles langues sont bienvenues. Transformer ce dépôt en véritable outil de surveillance ne l’est pas. Nous avons des principes.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+Votre PR peut contenir plus de texte que tout le code. C’est parfaitement acceptable.
 
 ## ❓ Questions fréquentes
 

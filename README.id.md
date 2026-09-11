@@ -2,7 +2,7 @@
 
 > Menjaga karyawan tetap hijau sejak manajemen lupa cara mengukur produktivitas.
 
-## 🌍 Languages
+## 🌍 Bahasa
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Dukungan internasional
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 bahasa. Bukan karena skripnya rumit, tetapi karena micromanagement ada di mana-mana.
 
-> Productivity may be local. The green-dot obsession is global.
+> Produktivitas bisa bersifat lokal. Obsesi terhadap titik hijau bersifat global.
 
 ## Apa ini?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock**, dan 60 detik. Tanpa gerakan mouse, hanya penyalahgunaan keyboard kelas enterprise.
 
 ## Fitur
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Tidak perlu instalasi
+- Cocok untuk waktu istirahat kopi
+- Melindungi indikator status hijau yang berharga™
+- Berulang hingga kematian termal alam semesta
 
 ## Cara kerja
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Memeriksa apakah Microsoft Teams sedang berjalan.
+2. Menekan `NUMLOCK` dua kali.
+3. Menunggu 60 detik.
+4. Berulang hingga PowerShell ditutup, atau alam semesta lebih dulu.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 Terjemahan aneh atau lelucon lebih bagus? Buka PR. Saya berbahasa Prancis, Inggris, dan Spanyol tingkat sekolah; sisanya bergantung pada komunitas dan optimisme.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+PR untuk terjemahan, lelucon, kopi, dan bahasa baru dipersilakan. Pengawasan karyawan tidak. Kami masih punya standar.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+PR Anda boleh berisi lebih banyak teks daripada seluruh basis kode. Itu wajar di sini.
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Karena ini absurd dengan indah.
 
 Tidak. Num Lock sudah mencapai bentuk final.
 
-### Why is the README larger than the script?
+### Mengapa README lebih besar daripada skrip?
 
-Because documentation scales faster than software.
+Karena dokumentasi tumbuh lebih cepat daripada perangkat lunak.
 
 ## 🔒 Keamanan
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock ditekan: disengaja. README lebih besar dari kode: tidak diperbaiki. Titik hijau dianggap produktivitas: tanpa patch.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Titik hijau dapat disalahartikan sebagai produktivitas. Status: masalah global tanpa patch.
 
 Ancaman: manusia, keyboard, kopi, dan Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Jika umat manusia masih terancam setelah mengingat skrip ini hanya menekan Num Lock, buka issue.
 
 ## Penafian
 

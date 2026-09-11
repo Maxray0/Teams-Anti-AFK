@@ -2,7 +2,7 @@
 
 > Giữ nhân viên luôn xanh kể từ khi quản lý quên cách đo năng suất.
 
-## 🌍 Languages
+## 🌍 Ngôn ngữ
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Hỗ trợ quốc tế
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 ngôn ngữ. Không phải vì script phức tạp, mà vì micromanagement có mặt khắp nơi.
 
-> Productivity may be local. The green-dot obsession is global.
+> Năng suất có thể mang tính địa phương. Nỗi ám ảnh với chấm xanh thì mang tính toàn cầu.
 
 ## Đây là gì?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock** và 60 giây. Không rê chuột, chỉ có lạm dụng bàn phím cấp doanh nghiệp.
 
 ## Tính năng
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Không cần cài đặt
+- Tương thích với giờ nghỉ cà phê
+- Bảo vệ chấm trạng thái xanh quý giá™
+- Lặp lại đến khi vũ trụ chết nhiệt
 
 ## Cách hoạt động
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Kiểm tra Microsoft Teams có đang chạy không.
+2. Nhấn `NUMLOCK` hai lần.
+3. Chờ 60 giây.
+4. Lặp lại đến khi PowerShell đóng, hoặc vũ trụ đóng trước.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 Bản dịch lạ hay câu đùa hay hơn? Hãy mở PR. Tôi nói tiếng Pháp, Anh và Tây Ban Nha cấp phổ thông; phần còn lại nhờ cộng đồng và sự lạc quan.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+Chào đón PR cải thiện bản dịch, câu đùa, cà phê và ngôn ngữ mới. Theo dõi nhân viên thì không. Chúng tôi vẫn có tiêu chuẩn.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+PR của bạn có thể nhiều chữ hơn toàn bộ mã nguồn. Hoàn toàn chấp nhận được.
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Vì nó vô lý một cách đẹp đẽ.
 
 Không. Num Lock đã đạt hình thái cuối.
 
-### Why is the README larger than the script?
+### Tại sao README lớn hơn script?
 
-Because documentation scales faster than software.
+Vì tài liệu phình to nhanh hơn phần mềm.
 
 ## 🔒 Bảo mật
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Nhấn Num Lock: có chủ ý. README lớn hơn code: không sửa. Chấm xanh bị nhầm với năng suất: không có bản vá.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Chấm xanh có thể bị nhầm với năng suất. Trạng thái: vấn đề toàn cầu, chưa có bản vá.
 
 Mối đe dọa: con người, bàn phím, cà phê và Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Nếu nhớ rằng script chỉ nhấn Num Lock mà nhân loại vẫn gặp nguy hiểm, hãy mở issue.
 
 ## Miễn trừ
 

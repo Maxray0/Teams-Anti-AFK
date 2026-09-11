@@ -2,7 +2,7 @@
 
 > Сохраняем сотрудников зелёными с тех пор, как руководство забыло измерять продуктивность.
 
-## 🌍 Languages
+## 🌍 Языки
 
 - 🇬🇧 [English](README.md)
 - 🇫🇷 [Français](README.fr.md)
@@ -23,30 +23,30 @@
 - 🇻🇳 [Tiếng Việt](README.vi.md)
 - 🇮🇩 [Bahasa Indonesia](README.id.md)
 
-## 🌐 International Support
+## 🌐 Международная поддержка
 
-18 languages. Not because the script is complicated. Because micromanagement exists everywhere.
+18 языков. Не потому, что скрипт сложный, а потому, что микроменеджмент существует повсюду.
 
-> Productivity may be local. The green-dot obsession is global.
+> Продуктивность бывает локальной. Одержимость зелёной точкой глобальна.
 
 ## Что это?
 
-PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterprise-grade keyboard abuse.
+PowerShell, Microsoft Teams, **Num Lock**, 60 секунд. Никакой мыши, только корпоративное издевательство над клавиатурой.
 
 ## Возможности
 
 - 100% PowerShell
-- No installation required
-- Coffee-break compatible
-- Protects the precious green status indicator™
-- Repeats until the heat death of the universe
+- Установка не требуется
+- Совместимо с перерывами на кофе
+- Защищает драгоценный зелёный индикатор™
+- Повторяется до тепловой смерти Вселенной
 
 ## Как работает
 
-1. Check whether Microsoft Teams is running.
-2. Send `NUMLOCK` twice.
-3. Wait 60 seconds.
-4. Repeat until PowerShell closes or the universe does.
+1. Проверяет, запущен ли Microsoft Teams.
+2. Дважды нажимает `NUMLOCK`.
+3. Ждёт 60 секунд.
+4. Повторяет, пока не закроется PowerShell или Вселенная.
 
 ```powershell
 .\TeamsAntiAFK.ps1
@@ -72,9 +72,9 @@ PowerShell: Microsoft Teams, **Num Lock**, 60 seconds. No mouse movement; enterp
 
 Странный перевод или шутка лучше? Откройте PR. Я говорю по-французски и по-английски, испанский на школьном уровне; остальное держится на сообществе и оптимизме.
 
-Pull requests for translations, jokes, coffee references, and languages are welcome. Employee monitoring is not.
+PR с переводами, шутками, кофе и новыми языками приветствуются. Слежка за сотрудниками — нет. У нас есть стандарты.
 
-Your PR may contain more text than the entire codebase. That is perfectly acceptable.
+Ваш PR может содержать больше текста, чем вся кодовая база. Это нормально.
 
 ## ❓ FAQ
 
@@ -90,9 +90,9 @@ Your PR may contain more text than the entire codebase. That is perfectly accept
 
 Нет. Num Lock достиг окончательной формы.
 
-### Why is the README larger than the script?
+### Почему README больше скрипта?
 
-Because documentation scales faster than software.
+Потому что документация растёт быстрее программного обеспечения.
 
 ## 🔒 Безопасность
 
@@ -100,11 +100,11 @@ Because documentation scales faster than software.
 
 - VULN-2026-0001: Num Lock нажимается намеренно. README больше кода: не исправим. Зелёную точку путают с продуктивностью: патча нет.
 - VULN-2026-0002: README > script. Won’t fix.
-- VULN-2026-0003: Green dot mistaken for productivity. No patch available.
+- VULN-2026-0003: Зелёную точку могут принять за продуктивность. Статус: глобальная проблема без патча.
 
 Угрозы: люди, клавиатуры, кофе и Teams.
 
-If humanity is still in danger after remembering that this presses Num Lock, open an issue.
+Если после напоминания, что скрипт лишь нажимает Num Lock, человечество всё ещё в опасности, откройте issue.
 
 ## Отказ от ответственности
 
